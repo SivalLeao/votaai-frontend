@@ -96,3 +96,7 @@ body {
 .buttom-add-remove-options button.postar:hover {
     background-color: rgb(4, 28, 207);
 }
+
+.red-asterisk {
+    color: red;
+}
